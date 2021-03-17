@@ -16,6 +16,6 @@ Saya seorang developer di Maleo, selain itu saya seorang Papa dari seorang putri
 
 #### Stats
 
-[![Asrul`s github stats](https://github-readme-stats.vercel.app/api?username=asruldev&theme=blue-green)](https://github.com/asruldev/github-readme-stats)
+[![Asrul`s github stats](https://github-readme-stats.vercel.app/api?username=asruldev)](https://github.com/asruldev/github-readme-stats)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=asruldev&theme=blue-green)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=asruldev)
