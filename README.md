@@ -11,9 +11,19 @@
 
 I'm a Software Engineer who loves teaching others to code. As a mentor for Software Engineering, I get to do some really cool stuff! Teaching is not only how people should write their code but how to THINK like a Professional Software Engineer. 
 
+#### Education
+
+- Padang State University
+- Hacktiv8 Indonesia
+
+#### Experiences
+
+- SMK N 2 Guguak (as a Teacher) - Limapuluh Kota
+- Dus Dusan Dot Com (as a Frontend JS) - Jakarta Selatan
+- Maleo (as Full Stack Developer TS) - Jakarta Selatan
+
 
 #### Top Technologies
-
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
@@ -24,8 +34,14 @@ I'm a Software Engineer who loves teaching others to code. As a mentor for Softw
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/asruldev/asruldev/wiki/Typescript) 
 
 
+#### Top Language
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=asruldev)
+
+
 #### Stats
 
 [![Asrul`s github stats](https://github-readme-stats.vercel.app/api?username=asruldev)](https://github.com/asruldev/github-readme-stats)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=asruldev)
+
+
