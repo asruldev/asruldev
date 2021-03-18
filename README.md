@@ -27,19 +27,19 @@ I'm a Software Engineer who loves teaching others to code. As a mentor for Softw
 - Dus Dusan Dot Com (as a Frontend JS) - Jakarta Selatan
 - Maleo (as Full Stack Developer TS) - Jakarta Selatan
 
-### Certificates
+#### Certificates
 - [LKS 2018](http://bit.ly/pembimbing-lomba)
 - [Hacktiv8](http://bit.ly/hacktiv8-asrul)
 
 #### Top Technologies
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/asruldev/catatan-react) 
+- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/asruldev/catatan-react) 
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/asruldev/asruldev/wiki/Typescript) 
+- [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/asruldev/asruldev/wiki/Typescript) 
 
 
 #### Top Language
