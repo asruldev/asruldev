@@ -27,6 +27,9 @@ I'm a Software Engineer who loves teaching others to code. As a mentor for Softw
 - Dus Dusan Dot Com (as a Frontend JS) - Jakarta Selatan
 - Maleo (as Full Stack Developer TS) - Jakarta Selatan
 
+### Certificates
+- [LKS 2018](http://bit.ly/pembimbing-lomba)
+- [Hacktiv8](http://bit.ly/hacktiv8-asrul)
 
 #### Top Technologies
 
