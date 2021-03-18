@@ -11,6 +11,11 @@
 
 I'm a Software Engineer who loves teaching others to code. As a mentor for Software Engineering, I get to do some really cool stuff! Teaching is not only how people should write their code but how to THINK like a Professional Software Engineer. 
 
+#### Social Activity
+
+- 30 Hari Javascript (finished)
+- Diskusi Pemograman Pemula - via [Meet](https://meet.google.com/npm-ozjz-gdm) (ongoing)
+
 #### Education
 
 - Padang State University
