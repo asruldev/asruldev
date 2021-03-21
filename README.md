@@ -14,7 +14,7 @@ I'm a Software Engineer who loves teaching others to code. As a mentor for Softw
 #### Social Activity
 
 - 30 Hari Javascript (finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
-- Diskusi Pemograman Pemula - via [Meet](https://meet.google.com/npm-ozjz-gdm) (ongoing) Sabtu, 20 Maret 2021 @ 21:00 wib
+- Malam minnggu coding - via [Meet](https://meet.google.com/npm-ozjz-gdm) setiap Sabtu, 20 Maret 2021 @ 21:00 wib
 
 #### Education
 
