@@ -25,7 +25,7 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 
 - [SMK N 2 Guguak](http://smkn2guguak.sch.id/) (as a Teacher) - Limapuluh Kota
 - [Dus Dusan Dot Com](https://www.dusdusan.com/) (as a Frontend JS) - Jakarta Selatan
-- [Maleo](https://maleo.social/) (as Full Stack Developer TS) - Jakarta Selatan
+- [Flock](https://maleo.social/) (as Full Stack Developer TS) - Jakarta Selatan
 
 #### Certificates
 - [LKS 2018](http://bit.ly/pembimbing-lomba)
