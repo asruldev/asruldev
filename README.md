@@ -31,7 +31,7 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 - [LKS 2018](http://bit.ly/pembimbing-lomba)
 - [Hacktiv8](http://bit.ly/hacktiv8-asrul)
 
-#### Top Technologie
+#### Top Technologies
 
 - [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/asruldev/asruldev/wiki/Javascript)
 
