@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/talkasrul/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-#### Hi, I'm Asrul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">,
+#### Bismillah. Hi, I'm Asrul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">,
 
 I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) and we already have a daughter and the question is whether our daughter will go into programmer too?
 
