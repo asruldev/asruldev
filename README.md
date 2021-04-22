@@ -15,6 +15,7 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 
 - 30 Hari Javascript (finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
 - Malam minggu coding - via [Meet](https://meet.google.com/npm-ozjz-gdm) setiap **Sabtu, 20 Maret 2021 @ 21:00 wib**
+- [Ramadhan 2021 with JS](https://hashnode.com/@asruldev/joinme)
 
 #### Educations
 
@@ -51,6 +52,4 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 
 [![Asrul`s github stats](https://github-readme-stats.vercel.app/api?username=asruldev)](https://github.com/asruldev/github-readme-stats)
 
-
-Join with [me](https://hashnode.com/@asruldev/joinme)
 
