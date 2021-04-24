@@ -11,7 +11,7 @@
 
 I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) and we already have a daughter and the question is whether our daughter will go into programmer too?
 
-#### Social Activity
+#### Social Activities
 
 - 30 Hari Javascript (finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
 - Malam minggu coding - via [Meet](https://meet.google.com/npm-ozjz-gdm) setiap **Sabtu, 20 Maret 2021 @ 21:00 wib**
