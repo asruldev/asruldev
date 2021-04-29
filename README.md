@@ -14,7 +14,7 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 #### Social Activities
 
 - 30 Hari Javascript (finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
-- - 30 Hari Javascript (ramadhan 2021) - https://asrul.dev
+- 30 Hari Javascript II (ramadhan 2021) - https://asrul.dev
 - Malam minggu coding - via [Meet](https://meet.google.com/npm-ozjz-gdm) setiap **Sabtu, 20 Maret 2021 @ 21:00 wib**
 - [Ramadhan 2021 with JS](https://hashnode.com/@asruldev/joinme)
 
