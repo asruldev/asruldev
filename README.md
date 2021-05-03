@@ -55,4 +55,4 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 
 #### Ambsador
 
-[![mbasdor](https://hashnode.com/@asruldev/joinme)](https://cdn.hashnode.com/res/hashnode/image/upload/v1618306120366/t6OWMX9cc.jpeg?auto=compress)
+[![mbasdor](https://cdn.hashnode.com/res/hashnode/image/upload/v1618306120366/t6OWMX9cc.jpeg?auto=compress)](https://hashnode.com/@asruldev/joinme)
