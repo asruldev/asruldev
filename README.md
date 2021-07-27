@@ -14,9 +14,9 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 #### Social Activities
 
 - 30 Hari Javascript (finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
-- 30 Hari Javascript II (ramadhan 2021) - https://asrul.dev
-- Malam minggu coding - via [Meet](https://meet.google.com/npm-ozjz-gdm) setiap **Sabtu, 20 Maret 2021 @ 21:00 wib**
-- [Ramadhan 2021 with JS](https://hashnode.com/@asruldev/joinme)
+- 30 Hari Javascript II (ramadhan 2021) - https://asrul.dev/series/30-hari-javascript
+- 30 Hari PHP (wfh 2021) - https://asrul.dev/series/php
+- Malam minggu Koding - via [Meet](https://meet.google.com/mei-ptbb-qfp) setiap **Sabtu Malam**
 
 #### Educations
 
@@ -35,7 +35,7 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 
 #### Top Technologies
 
-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/asruldev/asruldev/wiki/Javascript)
+- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://asrul.dev/series/30-hari-javascript)
 
 - [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/asruldev/asruldev/wiki/Nodejs)
 
