@@ -13,10 +13,12 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 
 #### Social Activities
 
-- 30 Hari Javascript (finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
+- 30 Hari Javascript (first covid19 - finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
 - 30 Hari Javascript II (ramadhan 2021) - https://asrul.dev/series/30-hari-javascript
 - 30 Hari PHP (wfh 2021) - https://asrul.dev/series/php
-- Malam minggu Koding - via [Meet](https://meet.google.com/mei-ptbb-qfp) setiap **Sabtu Malam**
+- Malam minggu Koding - finish
+- Private Freelance coding instructor - 2021
+- Online Freelance coding instructor - 2021
 
 #### Educations
 
@@ -52,7 +54,3 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 #### Stats.
 
 [![Asrul`s github stats](https://github-readme-stats.vercel.app/api?username=asruldev)](https://github.com/asruldev/github-readme-stats)
-
-#### Ambsador
-
-[![mbasdor](https://cdn.hashnode.com/res/hashnode/image/upload/v1618306120366/t6OWMX9cc.jpeg?auto=compress)](https://hashnode.com/@asruldev/joinme)
