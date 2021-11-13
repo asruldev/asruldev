@@ -50,6 +50,6 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=asruldev)
 
 
-#### Stats.
+#### Stats
 
 [![Asrul`s github stats](https://github-readme-stats.vercel.app/api?username=asruldev)](https://github.com/asruldev/github-readme-stats)
