@@ -10,6 +10,7 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 - Malam minggu Koding - finish
 - Private Freelance coding instructor - 2021
 - Online Freelance coding instructor - 2021
+- [Menulis Buku React 101 - 2023](https://asrul.dev/ebook)
 
 #### Educations
 
