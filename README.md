@@ -4,13 +4,13 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 
 #### Social Activities
 
-- 30 Hari Javascript (first Covid19 - finished) - grup diskusi [Telegram](https://t.me/joinchat/KEE0phS9ZCuR8O7a8F31qA)
 - 30 Hari Javascript II (ramadhan 2021) - https://asrul.dev/series/30-hari-javascript
 - 30 Hari PHP (wfh 2021 - onprogress) - https://asrul.dev/series/php
 - Malam minggu Koding - finish
 - Private Freelance coding instructor - 2021
 - Online Freelance coding instructor - 2021
 - [Menulis Buku React 101 - 2023](https://asrul.dev/ebook)
+- [Menulis Buku React Native - 2023](https://asrul.dev/ebook)
 
 #### Educations
 
