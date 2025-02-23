@@ -38,13 +38,3 @@ I am married to a programmer [@anisfikriyyah](https://github.com/anisfikriyyah) 
 - [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/asruldev/asruldev/wiki/React) 
 
 - [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/asruldev/asruldev/wiki/Typescript) 
-
-
-#### Top Languages
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=asruldev)
-
-
-#### Stats
-
-[![Asrul`s github stats](https://github-readme-stats.vercel.app/api?username=asruldev)](https://github.com/asruldev/github-readme-stats)
