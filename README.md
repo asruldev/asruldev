@@ -32,13 +32,13 @@ Frontend Developer with 6+ years of experience in building interactive, scalable
 
 ### Frontend Engineer - PT SiCepat Ekspres Indonesia (📅 2021 - Present)
 - Led frontend development and optimizations using React.js, TypeScript, and React Query.
-- Improved app performance by 85% with lazy loading and code splitting.
+- Improved app performance by 35% with lazy loading and code splitting.
 - Migrated legacy PHP CodeIgniter system to React.js for better maintainability and scalability.
 
 ### Frontend Developer - PT Maleo Kreatif Indonesia (📅 2019 - 2021)
 - Built analytics dashboard with React.js and Redux for real-time data visualization.
 - Implemented dark mode and accessibility features.
-- Optimized app rendering with memoization and virtualized lists, improving load performance by 60%.
+- Optimized app rendering with memoization and virtualized lists, improving load performance by 20%.
 
 ---
 
@@ -46,7 +46,7 @@ Frontend Developer with 6+ years of experience in building interactive, scalable
 
 - **Masterdata SiCepat (2024)**  
   Tech Stack: React.js, TypeScript, React Router, Ant Design, React Query  
-  Internal app with 1000+ active users. Optimized performance by 85%.
+  Internal app with 1000+ active users. Optimized performance by 35%.
 
 - **CMS SiCepat (2023)**  
   Tech Stack: React.js, TypeScript, React Query, React Router  
