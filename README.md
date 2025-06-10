@@ -11,7 +11,7 @@
 
 ## 👨‍💻 **About Me**
 
-Frontend Developer with 6+ years of experience in building interactive, scalable, and high-performance web applications using React.js & TypeScript. Expertise in performance optimization, efficient state management, and applying best practices for UI/UX development. Passionate about delivering impactful solutions and collaborating with cross-functional teams.
+Frontend Developer with 6+ years of experience in building interactive, scalable, and high-performance web applications using React.js & TypeScript. Expertise in performance optimization, efficient state management, and applying best practices for UI/UX development. Passionate about delivering impactful solutions and collaborating with cross-functional teams. https://asruldev.my.canva.site
 
 ---
 
