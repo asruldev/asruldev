@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="id"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Generator Cover Letter | Asrul Harahap</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f6fa;color:#172b40;font:15px/1.6 Arial,sans-serif}header{max-width:1160px;margin:28px auto;padding:0 24px}h1{margin:8px 0;font-size:28px}a{color:#245aa0}.layout{max-width:1160px;margin:auto;padding:0 24px 40px;display:grid;grid-template-columns:380px 1fr;gap:24px}.panel{background:white;border:1px solid #dce4ed;border-radius:12px;padding:24px}label{display:block;font-weight:600;margin-top:14px}input,textarea,select{width:100%;font:inherit;border:1px solid #bdcbd9;border-radius:6px;padding:9px;color:#172b40}textarea{min-height:80px;resize:vertical}button{font:inherit;border:0;border-radius:6px;padding:10px 16px;cursor:pointer;background:#215992;color:white;margin-top:14px}button.secondary{background:#e9eff6;color:#172b40}.hint{font-size:13px;color:#526579}.actions{display:flex;gap:8px;flex-wrap:wrap}#letter{min-height:680px;white-space:pre-wrap;font:15px/1.75 Arial,sans-serif;border:0;padding:0;background:white}#status{min-height:24px;font-size:13px}h2{margin-top:0;font-size:20px}@media(max-width:850px){.layout{grid-template-columns:1fr}}@page{size:A4;margin:20mm}@media print{body{background:white}header,form,.actions,.hint,#status,.preview-title{display:none!important}.layout{display:block;padding:0;margin:0;max-width:none}.panel{border:0;padding:0;border-radius:0}#letter{min-height:0;font-size:11pt;line-height:1.6}}
+</style>
+<header><a href="index.html">← Kembali ke CV</a><h1>Generator Cover Letter</h1><p>Isi detail lamaran, buat surat, lalu sesuaikan hasilnya sebelum dikirim.</p></header>
+<div class="layout">
+<form class="panel" id="form"><h2>Detail lamaran</h2><p class="hint">Dibuat secara lokal dari template dan pengalaman CV Anda. Tidak membutuhkan API atau koneksi internet.</p>
+<label for="company">Nama perusahaan *</label><input id="company" required maxlength="150" placeholder="PT Contoh Indonesia">
+<label for="role">Posisi yang dilamar *</label><input id="role" required maxlength="150" placeholder="Frontend Engineer">
+<label for="recipient">Nama penerima / tim</label><input id="recipient" maxlength="150" placeholder="Tim Rekrutmen">
+<label for="address">Alamat perusahaan (opsional)</label><textarea id="address" placeholder="Jakarta, Indonesia"></textarea>
+<label for="language">Bahasa surat</label><select id="language"><option value="id">Bahasa Indonesia</option><option value="en">English</option></select>
+<label for="date">Tanggal surat *</label><input id="date" type="date" required>
+<label for="source">Sumber lowongan (opsional)</label><input id="source" maxlength="200" placeholder="LinkedIn / situs perusahaan">
+<label for="skills">Keahlian relevan</label><input id="skills" value="React, TypeScript, React Query, REST API" maxlength="400">
+<label for="reason">Alasan tertarik pada perusahaan</label><textarea id="reason" placeholder="Tulis alasan spesifik dalam bahasa surat yang dipilih.">Saya ingin berkontribusi dalam pengembangan produk digital yang bermanfaat bagi pengguna, sekaligus bekerja bersama tim untuk membangun aplikasi yang andal, mudah digunakan, dan dapat dikembangkan sesuai kebutuhan bisnis.</textarea>
+<label for="evidence">Pengalaman / pencapaian tambahan</label><textarea id="evidence" placeholder="Opsional. Masukkan fakta yang relevan dengan kebutuhan lowongan dalam bahasa surat yang dipilih.">Saya berpengalaman membangun alur turnamen, pendaftaran pemain, dan integrasi pembayaran Xendit pada aplikasi web dan mobile IVPL. Pengalaman ini melatih saya menerjemahkan kebutuhan produk menjadi fitur yang terintegrasi dengan layanan backend.</textarea>
+<button type="submit">Generate cover letter</button><p class="hint">Nama perusahaan, posisi, dan tanggal wajib diisi. Input bebas disisipkan sesuai tulisan Anda.</p></form>
+<section class="panel"><h2 class="preview-title">Pratinjau surat</h2><p class="hint">Hasil dapat diedit langsung. Generate ulang akan mengganti edit Anda.</p><div id="letter" contenteditable="true" role="textbox" aria-label="Cover letter yang dapat diedit" aria-multiline="true">Isi detail lamaran dan klik Generate cover letter.</div><div class="actions"><button id="copy" class="secondary" disabled>Salin teks</button><button id="download" class="secondary" disabled>Unduh TXT</button><button id="print" disabled>Export PDF / Print</button></div><p id="status" role="status" aria-live="polite"></p></section>
+</div>
+<script>
+const el=id=>document.getElementById(id);
+const now=new Date();el('date').value=[now.getFullYear(),String(now.getMonth()+1).padStart(2,'0'),String(now.getDate()).padStart(2,'0')].join('-');
+const value=id=>el(id).value.trim();
+const defaults = {
+ id: {
+  reason: 'Saya ingin berkontribusi dalam pengembangan produk digital yang bermanfaat bagi pengguna, sekaligus bekerja bersama tim untuk membangun aplikasi yang andal, mudah digunakan, dan dapat dikembangkan sesuai kebutuhan bisnis.',
+  evidence: 'Saya berpengalaman membangun alur turnamen, pendaftaran pemain, dan integrasi pembayaran Xendit pada aplikasi web dan mobile IVPL. Pengalaman ini melatih saya menerjemahkan kebutuhan produk menjadi fitur yang terintegrasi dengan layanan backend.'
+ },
+ en: {
+  reason: 'I would like to contribute to digital products that help users and collaborate with a team to build reliable, usable applications that can evolve with business needs.',
+  evidence: 'I have built tournament workflows, player registration, and Xendit payment integration for the IVPL web and mobile applications. This experience strengthened my ability to translate product requirements into features integrated with backend services.'
+ }
+};
+let previousLanguage = value('language');
+el('language').addEventListener('change', () => {
+ const nextLanguage = value('language');
+ for (const field of ['reason', 'evidence']) {
+  if (!value(field) || value(field) === defaults[previousLanguage][field]) {
+   el(field).value = defaults[nextLanguage][field];
+  }
+ }
+ previousLanguage = nextLanguage;
+});
+
+el('form').addEventListener('submit',event=>{
+ event.preventDefault();if(!value('company')||!value('role')){el('status').textContent='Nama perusahaan dan posisi harus diisi.';return;}
+ const en=value('language')==='en',company=value('company'),role=value('role'),recipient=value('recipient')||(en?'Hiring Team':'Tim Rekrutmen');
+ const date=new Date(value('date')+'T12:00:00').toLocaleDateString(en?'en-GB':'id-ID',{day:'numeric',month:'long',year:'numeric'});
+ const header=`Asrul Harahap\nBogor, Indonesia\n+62 812-1175-2502 | talkasrul@gmail.com\nasrul.dev/me | linkedin.com/in/asruldev\n\n${date}\n\n${recipient}\n${company}${value('address')?'\n'+value('address'):''}`;
+ const skills=value('skills')||'React, TypeScript, React Query, REST API';
+ const paragraphs=en?[
+ `Subject: Application for ${role}`,`Dear ${recipient},`,
+ `I am writing to apply for the ${role} position at ${company}${value('source')?', which I found through '+value('source'):''}. I have been building web and mobile applications since 2019, with experience in frontend development, API integration, and state management.`,
+ `At PT SiCepat Ekspres Indonesia, I develop logistics and internal applications using React, TypeScript, and React Query. My work includes shared master data for more than 50 enterprise applications, document management systems, and operational dashboards. Previously, at PT Maleo Kreatif Indonesia, I developed esports applications with React and React Native, including tournament workflows and payment integration.`,
+ `My relevant technical skills include ${skills}. I also mentored more than 50 students through Ruangguru x Kampus Merdeka, conducting code reviews and guiding practical frontend projects.`,
+ value('evidence'),value('reason')?`I am interested in ${company} for the following reason: ${value('reason')}`:`I would welcome the opportunity to contribute my frontend development experience to the ${role} role at ${company}.`,
+ `I have attached my CV for your consideration. I would appreciate the opportunity to discuss how my experience fits your team's needs. Thank you for your time and consideration.`,`Sincerely,\nAsrul Harahap`
+ ]:[
+ `Perihal: Lamaran untuk posisi ${role}`,`Yth. ${recipient},`,
+ `Saya bermaksud melamar posisi ${role} di ${company}${value('source')?', berdasarkan informasi lowongan dari '+value('source'):''}. Saya mengembangkan aplikasi web dan mobile sejak 2019, dengan pengalaman dalam pengembangan frontend, integrasi API, dan pengelolaan state.`,
+ `Di PT SiCepat Ekspres Indonesia, saya mengembangkan aplikasi logistik dan internal menggunakan React, TypeScript, dan React Query. Pekerjaan saya mencakup pengelolaan master data untuk lebih dari 50 aplikasi perusahaan, sistem manajemen dokumen, dan dashboard operasional. Sebelumnya, di PT Maleo Kreatif Indonesia, saya membangun aplikasi esports menggunakan React dan React Native, termasuk alur turnamen dan integrasi pembayaran.`,
+ `Keahlian yang relevan dengan lamaran ini meliputi ${skills}. Saya juga membimbing lebih dari 50 peserta melalui program Ruangguru x Kampus Merdeka, melakukan code review, serta mendampingi proyek frontend.`,
+ value('evidence'),value('reason')?`Saya tertarik bergabung dengan ${company} karena: ${value('reason')}`:`Saya berharap dapat berkontribusi pada ${company} melalui pengalaman pengembangan frontend yang saya miliki untuk posisi ${role}.`,
+ `Sebagai bahan pertimbangan, saya melampirkan CV. Saya berharap mendapat kesempatan untuk membahas kesesuaian pengalaman saya dengan kebutuhan tim Anda. Terima kasih atas waktu dan pertimbangannya.`,`Hormat saya,\nAsrul Harahap`
+ ];
+ el('letter').textContent=header+'\n\n'+paragraphs.filter(Boolean).join('\n\n');
+ ['copy','download','print'].forEach(id=>el(id).disabled=false);el('status').textContent='Surat berhasil dibuat. Periksa isinya dan lampirkan CV saat mengirim lamaran.';
+});
+el('copy').onclick=async()=>{try{await navigator.clipboard.writeText(el('letter').innerText);el('status').textContent='Teks berhasil disalin.';}catch{const range=document.createRange();range.selectNodeContents(el('letter'));const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);el('status').textContent='Teks sudah dipilih. Tekan Ctrl+C atau Command+C untuk menyalin.';}};
+el('download').onclick=()=>{const url=URL.createObjectURL(new Blob([el('letter').innerText],{type:'text/plain;charset=utf-8'}));const link=document.createElement('a');link.href=url;link.download='Asrul_Harahap_Cover_Letter.txt';link.click();setTimeout(()=>URL.revokeObjectURL(url),1000);};
+el('print').onclick=()=>window.print();
+</script></html>

@@ -1,0 +1,17 @@
+{
+  "name": "Asrul Harahap",
+  "title": "Frontend Engineer | React | TypeScript",
+  "contact": "Bogor, Indonesia | +62 812-1175-2502 | talkasrul@gmail.com",
+  "links": "asrul.dev/me | linkedin.com/in/asruldev | github.com/asruldev",
+  "sections": [
+    {"heading": "Professional Summary", "items": [{"text": "Frontend developer building web and mobile applications since 2019. Experienced in React, TypeScript, React Native, API integration, and state management for logistics and esports platforms. Combines product development with frontend mentoring, code reviews, and performance optimization."}]},
+    {"heading": "Technical Skills", "items": [{"text": "Frontend: React, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, Ant Design, Emotion, Styled Components."}, {"text": "State & APIs: React Query, Redux, Zustand, React Router, RESTful APIs. Backend & databases: Node.js, Express.js, NestJS, MongoDB, MySQL, PostgreSQL. Tools: Git, Webpack."}]},
+    {"heading": "Work Experience", "items": [
+      {"title": "Frontend Engineer | PT SiCepat Ekspres Indonesia", "date": "Nov 2021 - Present", "bullets": ["Develop and maintain logistics and internal applications using React, TypeScript, and React Query, including CKL, SST, COD, CMS, Masterdata, and DMS.", "Build reusable UI components with Ant Design and Emotion/Styled Components; collaborate with backend teams on REST API integration and data flow.", "Build Masterdata to standardize shared data across 50+ enterprise applications and develop DMS for legal documents, policies, and operational records.", "Implement KPI and employee management dashboards, plus an interface for chatbot training with Rasa X."]},
+      {"title": "Frontend Mentor / Instructor | Ruangguru x Kampus Merdeka", "date": "2022", "bullets": ["Mentored 50+ students in HTML, CSS, JavaScript, React, state management, and collaborative Git workflows.", "Conducted code reviews and hands-on projects; taught algorithmic problem solving and contributed to curriculum development."]},
+      {"title": "Frontend Developer | PT Maleo Kreatif Indonesia", "date": "Mar 2019 - Oct 2021", "bullets": ["Developed IVPL esports web and mobile applications using React and React Native, with Express.js and MySQL integration.", "Implemented tournament creation, match brackets, player registration, and Xendit payment integration across web and mobile.", "Built an internal timesheet system with role-based access and automated reporting to support remote work.", "Developed Samsung Fold/Flip campaign microsites with responsive layouts, interactive animations, and SEO optimization."]}
+    ]},
+    {"heading": "Education & Training", "items": [{"title": "Bachelor of Education in Information Technology | Universitas Negeri Padang", "date": "2013 - 2017", "text": "GPA: 3.46. Led the Software Engineering community in 2015."}, {"title": "Fullstack JavaScript Immersive | Hacktiv8 Indonesia", "date": "May - Oct 2018", "text": "Built REST APIs and database architecture for PITI, a mobile expense tracking final project."}]},
+    {"heading": "Certifications & Languages", "items": [{"text": "Frontend Development Trainer - Ruangguru x Kampus Merdeka (2022); Web Design & Development Trainer - LKS XXVI (2018). Languages: Indonesian, English."}]}
+  ]
+}

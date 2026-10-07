@@ -3,7 +3,7 @@
 # Asrul Harahap - Frontend Developer 🚀 | React.js | TypeScript | Performance Optimization
 
 📍 **Location:** Bogor, Indonesia  
-📧 **Email:** [talkasrul@agmail.com](mailto:talkasrul@gmail.com)  
+📧 **Email:** [talkasrul@gmail.com](mailto:talkasrul@gmail.com)<br>
 🌐 **Website:** [asrul.dev](https://asrul.dev)  
 🔗 **LinkedIn:** [linkedin.com/in/asruldev](https://linkedin.com/in/asruldev)
 
@@ -106,3 +106,15 @@ Frontend Developer with 6+ years of experience in building interactive, scalable
 ## 👋 **Let's Connect!**
 I am always open to new opportunities and discussions on how I can contribute to building high-quality frontend systems. Feel free to reach out through email or LinkedIn!
 
+
+## ATS Resume
+
+- [Download ATS CV (PDF)](output/pdf/Asrul_Harahap_CV_ATS.pdf)
+- [Printable CV with Export PDF button](cv/index.html): open locally in a browser, click **Export PDF / Print**, then choose **Save as PDF**, A4, and disable browser headers/footers.
+- Edit `cv/resume.json`, then run `python3 scripts/export_cv.py` to regenerate both outputs. Install the dependency with `python3 -m pip install -r scripts/requirements.txt`.
+
+The CV uses a single column and selectable text. Content is based on the existing CVs; confirm current employment and contact details before applying.
+
+### Cover Letter Generator
+
+The cover letter link is hidden on the CV page. On desktop, hold Ctrl (Windows/Linux) or Cmd (Mac), then press C followed by V within 1.5 seconds. On mobile, long-press the name **Asrul Harahap** for 1.2 seconds. The page also remains accessible directly at `cv/cover-letter.html`. This is a hidden shortcut, not access protection. Enter the company, position, recipient, date, relevant skills, and optional reasons/accomplishments. Generate in Indonesian or English, edit the preview, copy/download text, or print to PDF. For PDF select A4 and disable browser headers/footers. The generator uses local templates without an AI service and does not save or transmit inputs. Attach your CV when sending the letter.
